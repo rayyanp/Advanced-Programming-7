@@ -1,0 +1,2 @@
++with I/O streams. In this exercise, you are going to use both an input and an output stream to
++Create a new file in your data folder. This file should be a text file, containing several lines of text.

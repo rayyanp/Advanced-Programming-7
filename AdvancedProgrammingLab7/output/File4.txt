@@ -1,0 +1,4 @@
+As you saw in the first lecture this week, we handle the input and output of data from files in Java
++with I/O streams. In this exercise, you are going to use both an input and an output stream to
+perform some basic processing on each of the line’s in a file.
++Create a new file in your data folder. This file should be a text file, containing several lines of text.
